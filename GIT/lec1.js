@@ -13,3 +13,4 @@ let rolln=7343;
 let balae=794;
 let namee="girhrman";
 let rollen=43;
+console.log(name);
