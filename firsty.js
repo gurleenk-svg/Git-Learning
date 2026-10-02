@@ -3,3 +3,5 @@ const age=10;
 const balance=300;
 
 const accnumber=12;
+const number="worldly";
+
