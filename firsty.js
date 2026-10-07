@@ -20,7 +20,7 @@ function updatebalance(){
 }
 updatebalance();
 console.log(balance);
-
+console.log("changesmadebyBUg");
 console.log("MONYYGuwgf")
 console.log("bug final commit ");
 
