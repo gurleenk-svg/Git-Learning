@@ -12,4 +12,16 @@ function getset(){
     console.log("hello Coder Army");
 }
 const nus=342387493;
+while (true){
+    console.log("Hello");//hmne seedha masterbranch mein  changes krei 
+}
+function updatebalance(){
+    balance+=20;
+}
+updatebalance();
+
+
+
+
+
 
