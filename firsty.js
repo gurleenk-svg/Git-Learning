@@ -24,4 +24,10 @@ console.log("changesmadebyBUg");console.log("comeback in LIFE is ImportaNT");//n
 
 console.log("MONYYGuwgf")
 console.log("bug final commit ");
-
+function showage(){
+    console.log(age);
+}
+showage();
+function showName(){
+    console.log(name);
+}
