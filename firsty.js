@@ -20,7 +20,7 @@ function updatebalance(){
 }
 updatebalance();
 console.log(balance);
-console.log("comeback in LIFE is ImportaNT");
+console.log("comeback in LIFE is ImportaNT");//now 
 
 
 
