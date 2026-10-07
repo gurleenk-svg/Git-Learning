@@ -19,7 +19,7 @@ function updatebalance(){
     balance+=20;
 }
 updatebalance();
-
+console.log(balance);
 
 
 
