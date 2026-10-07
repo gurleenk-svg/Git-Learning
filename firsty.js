@@ -28,6 +28,7 @@ function showage(){
     console.log(age);
 }
 showage();
-function showName(){
+function showName(val){
     console.log(name);
 }
+showName();
