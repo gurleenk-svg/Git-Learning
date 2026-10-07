@@ -2,7 +2,7 @@ const name= "Rohit";
 const age=10;
 const balance=300;
 
-const accnumber=12;
+
 const number="worldly";
 const numbert=12;
 const news="hello how r you?"
