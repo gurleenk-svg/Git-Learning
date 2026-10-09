@@ -1,5 +1,5 @@
 const name= "Rohit";
-const age=10;
+const age=95;
 const balance=300;
 
 
@@ -24,10 +24,11 @@ console.log("changesmadebyBUg");console.log("comeback in LIFE is ImportaNT");//n
 
 console.log("MONYYGuwgf")
 console.log("bug final commit ");
-function showage(val){
-    console.log(age+val);
+function showage(value){
+    console.log(age+value);
 }
-showage();
+showage(10);
 function showName(){
     console.log(name);
 }
+showName();
