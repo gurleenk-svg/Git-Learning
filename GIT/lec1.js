@@ -15,4 +15,5 @@ let namee="gillhrman";
 let rollen=43;
 console.log(name);
 console.log("Latest Update");
-console.log("hey gudmeen");
+console.log("hey gudmeen")
+console.log("trying to fix the Bug in the code")
